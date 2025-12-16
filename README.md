@@ -9,7 +9,7 @@ My goal is to build intelligent applications that look great and solve complex p
 ---
 
 ### 🚀 Recent Build: Smart Image Scoring System
-**[Link to Repo]**
+**[[Link to Repo]](https://github.com/harshh06/image-scoring-app)**
 *A Python-based tool that automates image quality assessment.*
 
 I built this project to explore how computer vision can optimize content workflows.
@@ -34,7 +34,7 @@ I built this project to explore how computer vision can optimize content workflo
 
 ---
 
-### 💼 Experience
+### 💼 Experience (~3yrs as SDE)
 
 * 🎓 **MS in Computer Science** @ **University of Florida**
 * 💼 **Frontend Developer** @ **Attentive.ai** _(See work: [@harshsoni-at](https://github.com/harshsoni-at))_
@@ -44,5 +44,5 @@ I built this project to explore how computer vision can optimize content workflo
 ---
 
 ### 📫 Reach Out
-* [LinkedIn](https://linkedin.com/in/your-profile)
-* [Email / Website]
+* [LinkedIn](https://linkedin.com/in/harshh06)
+* [Email](harsh.soni@ufl.edu)
